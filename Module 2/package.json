@@ -1,0 +1,15 @@
+{
+  "name": "first-bot",
+  "version": "1.0.0",
+  "description": "First twitter bot!",
+  "main": "first-bot.js",
+  "scripts": {
+    "start": "node first-bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Chin-Jew",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
