@@ -1,4 +1,4 @@
 # LMCSC Twitter Bots!
 
-## Lesson \# 1
+## Module \#1
 A brief JavaScript syntax introduction.
